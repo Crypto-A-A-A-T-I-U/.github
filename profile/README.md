@@ -1,6 +1,6 @@
 # CRYPTO (AAATIU) - Associação Atlética Acadêmica de Tecnologia da Informação Unisul
 
-![Logo da CRYPTO (AAATIU)](./../assets/img/logo-crypto.png)
+![logo-crypto](https://github.com/Crypto-A-A-A-T-I-U/.github/assets/88681055/056718f5-99c3-4079-8a33-b629420c6d42)
 
 Bem-vindo à CRYPTO (AAATIU), A comunidade para alunos dos cursos de TI da Unisul!
 
