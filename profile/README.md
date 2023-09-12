@@ -2,6 +2,12 @@
 
 # CRYPTO (AAATIU) - Associação Atlética Acadêmica de Tecnologia da Informação Unisul
 
+<div align="right">
+    <a href="https://github.com/Crypto-A-A-A-T-I-U" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/github/followers/Crypto-A-A-A-T-I-U?logo=github&style=for-the-badge&color=00ff012&labelColor=1c1917" />
+    </a>
+</div>
+
 ![logo-crypto](https://github.com/Crypto-A-A-A-T-I-U/.github/assets/88681055/056718f5-99c3-4079-8a33-b629420c6d42)
 
 Bem-vindo à CRYPTO (AAATIU), A comunidade para alunos dos cursos de TI da Unisul!
