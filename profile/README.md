@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff01&height=120&section=header"/>
+
 # CRYPTO (AAATIU) - Associação Atlética Acadêmica de Tecnologia da Informação Unisul
 
 ![logo-crypto](https://github.com/Crypto-A-A-A-T-I-U/.github/assets/88681055/056718f5-99c3-4079-8a33-b629420c6d42)
@@ -40,3 +42,6 @@ Siga-nos nas redes sociais para ficar por dentro das últimas notícias e atuali
 ---
 
 Junte-se a nós e seja parte de uma comunidade que promove a colaboração e a inovação no mundo da TI!
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff01&height=120&section=footer"/>
